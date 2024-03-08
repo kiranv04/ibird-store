@@ -18,9 +18,9 @@
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-center">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">Unleash Your Potential: Master Your Craft with Us</h1>
-                            <p class="text-white pb-3 animated slideInDown">Dive into a world of growth and expertise with our cutting-edge training services. Whether you're a professional looking to upskill or a business aiming to empower your workforce, our tailored programs will help you achieve your goals. Explore our diverse range of courses and take the first step towards success today.</p>
-                            <p class="text-white pb-3 animated slideInDown">Explore our diverse range of courses and take the first step towards success today.</p>
+                            <h1 class="mb-4 animated slideInDown">Unleash Your Potential: Master Your Craft with Us</h1>
+                            <p class="pb-3 animated slideInDown">Dive into a world of growth and expertise with our cutting-edge training services. Whether you're a professional looking to upskill or a business aiming to empower your workforce, our tailored programs will help you achieve your goals. Explore our diverse range of courses and take the first step towards success today.</p>
+                            <p class="pb-3 animated slideInDown">Explore our diverse range of courses and take the first step towards success today.</p>
                             <a href="" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Read More</a>
                             <a href="contact.php" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
                         </div>
@@ -126,7 +126,7 @@
 <!-- Service Start -->
 <div class="container-fluid py-5">
     <div class="container py-5 px-lg-5">
-        <div class="wow fadeInUp" data-wow-delay="0.1s">
+        <div class="wow" data-wow-delay="0.1s">
             <p class="section-title text-secondary justify-content-center"><span></span>Our Services<span></span></p>
             <h1 class="text-center mb-5">What Solutions We Provide</h1>
         </div>
@@ -167,7 +167,7 @@
 <!-- Service End -->
 
 <!-- Newsletter Start -->
-<div class="container-fluid bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid bg-primary newsletter py-5 wow" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
@@ -187,7 +187,7 @@
 <!-- Projects Start -->
 <div class="container-fluid py-5">
     <div class="container py-5 px-lg-5">
-        <div class="wow fadeInUp" data-wow-delay="0.1s">
+        <div class="wow" data-wow-delay="0.1s">
             <p class="section-title text-secondary justify-content-center"><span></span>Our Projects<span></span></p>
             <h1 class="text-center mb-5">Recently Completed Projects</h1>
         </div>
@@ -243,10 +243,10 @@
 <!-- Projects End -->
 
 <!-- Testimonial Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid py-5 wow" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
-        <p class="section-title text-secondary justify-content-center"><span></span>Testimonial<span></span></p>
-        <h1 class="text-center mb-5">What Say Our Clients!</h1>
+        <p class="section-title text-secondary justify-content-center"><span></span>Testimonials<span></span></p>
+        <h1 class="text-center mb-5">What Our Customers Say!</h1>
         <div class="owl-carousel testimonial-carousel">
             <div class="testimonial-item bg-light rounded my-4">
                 <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Pragathi Education's website building service exceeded our expectations. They crafted a website that perfectly represents our institution's values and vision. Their attention to detail and prompt responsiveness made the entire process enjoyable, and we're thrilled with the final result.</p>

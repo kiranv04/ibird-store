@@ -1,13 +1,13 @@
 <!-- Footer Start -->
-<div class="container-fluid bg-primary text-light footer wow fadeIn" data-wow-delay="0.1s">
+<div class="container-fluid bg-primary footer wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <div class="row g-5">
             <div class="col-md-6 col-lg-3">
-                <img src="img/pragathi_white_new.png" alt="Company Logo" class="img-fluid mb-3">
-                <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu</p>
+                <img src="img/logo/ibird_logo.jpg" alt="Company Logo" class="img-fluid mb-3">
+                <p>iBird is a name of quality products. We deal in all Dubai products.</p>
             </div>
             <div class="col-md-6 col-lg-3">
-                <p class="section-title text-white h5 mb-4">Quick Links</p>
+                <p class="section-title h5 mb-4">Quick Links</p>
                 <a class="btn btn-link" href="">About Us</a>
                 <a class="btn btn-link" href="">Training</a>
                 <a class="btn btn-link" href="">Services</a>
@@ -15,7 +15,7 @@
                 <a class="btn btn-link" href="">Contact Us</a>
             </div>
             <div class="col-md-6 col-lg-3">
-                <p class="section-title text-white h5 mb-4">Gallery</p>
+                <p class="section-title h5 mb-4">Gallery</p>
                 <div class="row g-2">
                     <div class="col-4">
                         <img class="img-fluid" src="img/portfolio-1.jpg" alt="Image">
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
-                <p class="section-title text-white h5 mb-4">Newsletter</p>
+                <p class="section-title h5 mb-4">Newsletter</p>
                 <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu</p>
                 <div class="position-relative w-100 mt-3">
                     <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Your Email" style="height: 48px;">
@@ -50,7 +50,7 @@
     <hr>
     <div class="row d-flex justify-content-center">
         <div class="col-md-4 text-center text-md-start mb-5 mb-md-0 d-flex align-items-center">
-            <h5 class="section-title text-white h6 mx-auto">© 2024 iBird. All Rights Reserved. Developed By IK.</h5>
+            <h5 class="section-title h6 mx-auto">© 2024 iBird. All Rights Reserved. Developed By IK.</h5>
         </div>
     </div>
 </div>
@@ -59,6 +59,8 @@
 
 <!-- Back to Top -->
 <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+<!-- <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+<a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a> -->
 </div>
 
 <!-- JavaScript Libraries -->

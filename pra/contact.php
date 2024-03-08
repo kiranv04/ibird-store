@@ -1,12 +1,11 @@
 <?php include 'header.php'; ?>
 <!-- Contact Start -->
-<div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid bg-white mt-5 wow" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <div class="row justify-content-center">
-            <div class="col-lg-7 text-center">
-                <p class="section-title text-white justify-content-center"><span></span>Reach Out to Us<span></span></p>
-                <h1 class="text-center text-white mb-4">Stay Always In Touch</h1>
-                <p class="text-white mb-4">We're just a click away from your needs</p>
+            <div class="col-lg-7 mt-5 text-center">
+                <h1 class="text-center text-black mb-4">Stay Always In Touch</h1>
+                <p class="text-black mb-4">We're just a click away from your needs</p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -16,25 +15,25 @@
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                    <input type="text" class="form-control" id="name" placeholder="Your Name" autocomplete="off">
                                     <label for="name">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                    <input type="email" class="form-control" id="email" placeholder="Your Email" autocomplete="off">
                                     <label for="email">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Phone Number">
+                                    <input type="text" class="form-control" id="subject" placeholder="Phone Number" autocomplete="off">
                                     <label for="subject">Phone Number</label>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject" autocomplete="off">
                                     <label for="subject">Subject</label>
                                 </div>
                             </div>
@@ -57,24 +56,24 @@
                         <div class="col-lg-4">
                             <ul class="list-unstyled contact-list mb-4">
                                 <li>
-                                    <i class="fas fa-phone-alt fa-lg text-white"></i>
-                                    <span class="text-white ml-2"> PHONE<a class="section-title text-white h6" href="tel:+91959025992">+91 959025992</a></span>
+                                    <i class="fas fa-phone-alt fa-lg text-black"></i>
+                                    <span class="text-black ml-2"> PHONE<a class="section-title text-black h6" href="tel:+91959025992">+91 1234567890</a></span>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-lg-4">
                             <ul class="list-unstyled contact-list mb-4">
                                 <li>
-                                    <i class="fab fa-whatsapp fa-lg text-white"></i>
-                                    <span class="text-white ml-2"> WHATSAPP <a class="section-title text-white h6" href="https://api.whatsapp.com/send?phone=+91987654312">+91 959025992</a></span>
+                                    <i class="fab fa-whatsapp fa-lg text-black"></i>
+                                    <span class="text-black ml-2"> WHATSAPP <a class="section-title text-black h6" href="https://api.whatsapp.com/send?phone=+91987654312">+91 1234567890</a></span>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-lg-4">
                             <ul class="list-unstyled contact-list mb-4">
                                 <li>
-                                    <i class="far fa-envelope fa-lg text-white"></i>
-                                    <span class="text-white ml-2"> EMAIL <a class="section-title text-white h6" href="mailto:info@pragathi.com">info@pragathi.com</a></span>
+                                    <i class="far fa-envelope fa-lg text-black"></i>
+                                    <span class="text-black ml-2"> EMAIL <a class="section-title text-black h6" href="mailto:ibirdstoreofficial@gmail.com">ibirdstoreofficial@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>
